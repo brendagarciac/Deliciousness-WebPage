@@ -17,3 +17,8 @@ During the incremental development of this project, we used a multitude of techn
 4.	view account information
 <br>
 5.	favorite a recipe
+
+<img width="207" alt="image" src="https://user-images.githubusercontent.com/56801901/212424832-d7ab9a88-aa4c-4a36-91c4-04d92919ef63.png">
+<img width="211" alt="image" src="https://user-images.githubusercontent.com/56801901/212424843-56ef8f02-443e-4689-b85c-3486e687a53a.png">
+<img width="208" alt="image" src="https://user-images.githubusercontent.com/56801901/212424851-b283c483-dbe2-49c4-b8a8-d8790c0f347c.png">
+<img width="212" alt="image" src="https://user-images.githubusercontent.com/56801901/212424861-a421c2b1-8e49-4166-9800-833c9016247a.png">
